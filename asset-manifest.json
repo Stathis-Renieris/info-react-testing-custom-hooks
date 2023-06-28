@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/info-react-testing-custom-hooks/static/css/main.7c3f747c.css",
+    "main.js": "/info-react-testing-custom-hooks/static/js/main.8c9bb72c.js",
+    "index.html": "/info-react-testing-custom-hooks/index.html",
+    "main.7c3f747c.css.map": "/info-react-testing-custom-hooks/static/css/main.7c3f747c.css.map",
+    "main.8c9bb72c.js.map": "/info-react-testing-custom-hooks/static/js/main.8c9bb72c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c3f747c.css",
+    "static/js/main.8c9bb72c.js"
+  ]
+}
